@@ -11,7 +11,7 @@
 
 ![Latest release on NPM](https://img.shields.io/npm/v/mgplus)
 
-[CDN direct link](https://cdn.mgpluscss.com/v1.4.4/mgplus.css)
+[CDN direct link](https://cdn.mgpluscss.com/v1.4.5/mgplus.css)
 
 **Striking the perfect balance between features and simplicity**
 
