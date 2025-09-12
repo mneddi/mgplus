@@ -112,7 +112,7 @@ MgPlus is specially designed to quickly create a website or a small page with mi
 Clone the repository
 
 ```sh
-git clone https://github.com/Evodim/mgplus.git
+git clone https://github.com/mgpluscss/mgplus.git
 ```
 
 Install packages (with yarn, npm, on pnpm)
@@ -139,38 +139,7 @@ Output library will be copied in dist folder
 
 ```sh
 npm run build:lib
-```
-
-### Production ready examples
- 
-**[Corporate website integration](https://www.evodim.com)**
-
- - Simple contact forms
- - Responsive layouts
- - Navigation
-   
-<img width="1899" height="965" alt="image" src="https://github.com/user-attachments/assets/faa5d058-aadd-464e-9fe3-01ba09104b08" />
-
-
-**Advanced website integration**
-
-- Advanced forms wizard (funnels) with validation
-- Navigation, navbars
-- Responsive layouts
-- Modals
-- Conditionnal elements for mobile or desktop
-  
-<img width="410" height="734" alt="image" src="https://github.com/user-attachments/assets/caa73d44-5282-417a-9c73-4b9f07e6c4aa" />
-
-<img width="1246" height="1000" alt="image" src="https://github.com/user-attachments/assets/a886e05c-4adb-4214-be09-74c4e6c68e66" />
-
-<img width="367" height="863" alt="image" src="https://github.com/user-attachments/assets/b71bc49e-de66-4fa7-83fd-2cd61d3d7d6c" />
-
-
+``` 
 ## License
 
-Licensed under the [MIT License](https://raw.githubusercontent.com/Evodim/mgplus/master/LICENSE).
-
-*This library is in active development, some breaking may occurs until next major release including a new documentation portal.*
-
-A complete documentation page will be available soon
+Licensed under the [MIT License](https://raw.githubusercontent.com/mgpluscss/mgplus/master/LICENSE).
